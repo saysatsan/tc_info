@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /img/
+Disallow: /css/
+Disallow: /sass/
+Disallow: /slick/
+Disallow: /sendmessage.php
